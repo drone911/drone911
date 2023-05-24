@@ -12,4 +12,4 @@ This is Jigar Patel (He/Him 👦)
     (7) [Rubrik Polaris Python SDK](https://github.com/rubrikinc/rubrik-sdk-for-python)  
     ❗️ *Content Packs include Enrichment and Data Ingestion Scripts, Incident Reponse Playbooks, Dashboards, etc.*  
 - 🧙‍♂️ Ask me about 👏 Problem Solving & Optimization 👏 Pentesting 👏 Malware RE 👏 AI/ML 👏 Web Dev 👏 Cloud and more.
-- 👨🔧 I am resourceful, 🖖🏼 helpful, and an all-rounder 🤹🏼‍♂️.
+- 👨🔧 I am resourceful, 🖖🏼 helpful, and I am always on the lookout for finding root-causes 🤹🏼‍♂️.
