@@ -1,6 +1,6 @@
 ### Hi there 👋
 This is Jigar Patel (He/Him 👦)
-- 🐊 I am a CS Master's student at the University of Florida with a focus on Cybersecurity and Information Science. Currently holding a perfect 🅰.
+- 🐊 I am a CS Master's student at the University of Florida with a focus on Software Engineering and Cybersecurity. Currently holding a perfect 🅰.
 - 👀 I am currently working on Reverse Engineering and Fuzzing Samsung 5G Baseband Processor Firmware using [Ghidra](https://github.com/NationalSecurityAgency/ghidra) 🐉 and [AFL++](https://github.com/AFLplusplus).
 - 🔗 Links to check out some of my professional (public) contributions as an Incident Responses Engineer 👨🏻‍💻 for [Palo Alto Networks' Cortex XSOAR](https://www.paloaltonetworks.com/cortex) are as follows:  
     (1) [Google Chronicle SIEM SOAR Content Pack](https://github.com/demisto/content/tree/master/Packs/GoogleChronicleBackstory)  
