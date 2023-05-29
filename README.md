@@ -11,5 +11,5 @@ This is Jigar Patel (He/Him 👦)
     (6) [CyCognito External Attack Surface Management SOAR Content Pack](https://github.com/demisto/content/tree/master/Packs/CyCognito)  
     (7) [Rubrik Polaris Python SDK](https://github.com/rubrikinc/rubrik-sdk-for-python)  
     ❗️ *Content Packs include Enrichment and Data Ingestion Scripts, Incident Reponse Playbooks, Dashboards, etc.*  
-- 🧙‍♂️ Ask me about 👏 Problem Solving & Optimization 👏 Web 👏 Cloud 👏 Networks 👏 AI/ML 👏 Pentesting 👏 Malware RE and more.
+- 🧙‍♂️ Ask me about 👏 Problem Solving & Optimization 👏 Web 👏 Cloud 👏 Networks 👏 AI/ML 👏 Pentesting 👏 Malware Forensics and more.
 - 👨🔧 I am resourceful, 🖖🏼 helpful, and excellent in root-cause analysis 🤹🏼‍♂️.
