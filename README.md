@@ -11,7 +11,7 @@ This is Jigar Patel (He/Him 👦)
     (6) [CyCognito External Attack Surface Management SOAR Content Pack](https://github.com/demisto/content/tree/master/Packs/CyCognito)  
     (7) [Rubrik Polaris Python SDK](https://github.com/rubrikinc/rubrik-sdk-for-python)  
     ❗️ *Content Packs include Enrichment and Data Ingestion Scripts, Incident Reponse Playbooks, Dashboards, etc.*  
-- 🧨 Malware reports that I wrote for my Malware Reverse Engineering course with admittedly quirky titles 🤡:
+- 🧨 Malware reports that I wrote for my Malware Reverse Engineering course with admittedly quirky titles 🤡:  
     (1) [Lockbit 2.0](https://docs.google.com/document/d/1Rprbm0Gq91MsU5nEFnPyk6EOK2q8TQn34grzybpEBLA/)  
     (2) [Adware.Outbrowse/Bundler](https://docs.google.com/document/d/1T39iNPbx2L8enONfN5R-c2xhWa0YB_GsbjzPQNn1Vpo/)  
     (3) [PWS.Win32/Fareit](https://docs.google.com/document/d/1-Z1K4lXYMCinwIpha-waFZR2siL_Z1Y0FFlGHL-q_YQ/)  
