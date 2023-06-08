@@ -13,3 +13,9 @@ This is Jigar Patel (He/Him 👦)
     ❗️ *Content Packs include Enrichment and Data Ingestion Scripts, Incident Reponse Playbooks, Dashboards, etc.*  
 - 🧙‍♂️ Ask me about 👏 Problem Solving & Optimization 👏 Web 👏 Cloud 👏 Networks 👏 AI/ML 👏 Pentesting 👏 Malware Analysis and more.
 - 👨🔧 I am resourceful, 🖖🏼 helpful, and excellent in root-cause analysis 🤹🏼‍♂️.
+- Malware reports that I wrote for my Malware Reverse Engineering course with admittedly quirky titles:
+    (1) [Lockbit 2.0](https://docs.google.com/document/d/1Rprbm0Gq91MsU5nEFnPyk6EOK2q8TQn34grzybpEBLA/)
+    (2) [Adware.Outbrowse/Bundler](https://docs.google.com/document/d/1T39iNPbx2L8enONfN5R-c2xhWa0YB_GsbjzPQNn1Vpo/)
+    (3) [PWS.Win32/Fareit](https://docs.google.com/document/d/1-Z1K4lXYMCinwIpha-waFZR2siL_Z1Y0FFlGHL-q_YQ/)
+    (4) [Trojan.Boba/NetwireDRC](https://docs.google.com/document/d/1X7CG9V1N3Q28_ZVDc2HYLLR3k6sXWd-dEs5-vbkXdHA/)
+    
