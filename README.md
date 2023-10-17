@@ -1,8 +1,10 @@
 ### Hi there 👋
 This is Jigar Patel (He/Him 👦)
-- 🐊 I am a CS Master's student at the University of Florida with a focus on Software Engineering and Cybersecurity. Currently holding a perfect 🅰.
-- 👀 I am currently working on Reverse Engineering and Fuzzing Samsung 5G Baseband Processor Firmware using [Ghidra](https://github.com/NationalSecurityAgency/ghidra) 🐉 and [AFL++](https://github.com/AFLplusplus).
-- 🔗 Links to check out some of my professional (public) contributions as an Incident Response Developer 🛡🏻‍🛡 for [Palo Alto Networks' Cortex XSOAR](https://www.paloaltonetworks.com/cortex) are as follows:  
+- 🐊 I am a CS Master's student at the University of Florida with a focus on Full Stack SDE and Cybersecurity. Currently holding a 3.94 GPA.
+- 🚅 AWS Solution Architect with ample exposure to Angular, React, and Node.js.
+- Checkout my [pentesting reports](https://github.com/drone911/arts-pentesing-reports) for a virtual business [Art's Tailor Shoppe 👔](https://amazon-invincible.fandom.com/wiki/Tailor_Shoppe) owned by a [Invicible's Art Rosenbaum](https://amazon-invincible.fandom.com/wiki/Art_Rosenbaum). 
+- 👀 I recently worked on Reverse Engineering and Fuzzing Samsung 5G Baseband Processor Firmware using [Ghidra](https://github.com/NationalSecurityAgency/ghidra) 🐉 and [AFL++](https://github.com/AFLplusplus).
+- 🔗 Links to check out some of my professional (public) contributions in Python and Javascript as an Incident Response Developer 🛡🏻‍🛡 for [Palo Alto Networks' Cortex XSOAR](https://www.paloaltonetworks.com/cortex):  
     (1) [Google Chronicle SIEM SOAR Content Pack](https://github.com/demisto/content/tree/master/Packs/GoogleChronicleBackstory)  
     (2) [Rubrik Ransomware Detection and Recovery SOAR Content Pack](https://github.com/demisto/content/tree/master/Packs/RubrikPolaris)  
     (3) [Rubrik Ransomware VM Recovery Playbook](https://github.com/demisto/content/blob/master/Packs/RubrikPolaris/Playbooks/playbook-Rubrik_Ransomware_Discovery_and_File_Recovery_-_Rubrik_Polaris_README.md#:~:text=for%20this%20playbook.-,Playbook%20Image,-content/playbook%2DRubrik_Ransomware_Discovery_and_File_Recovery_)  
