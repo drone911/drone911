@@ -1,6 +1,6 @@
 ### Hi there 👋
 This is Jigar Patel (He/Him 👦)
-- 🐊 I am a CS Master's student at the University of Florida with a focus on Softwaee Development and Cybersecurity. Currently holding a 3.94 GPA.
+- 🐊 I am a CS Master's student at the University of Florida with a focus on Software Development and Cybersecurity. Currently holding a 3.94 GPA.
 - 🚅 AWS Solutions Architect Associate with ample exposure to Angular, React, and Node.js.
 - Checkout my [pentesting reports](https://github.com/drone911/arts-pentesing-reports) for a virtual business [Art's Tailor Shoppe 👔](https://amazon-invincible.fandom.com/wiki/Tailor_Shoppe) owned by a [Invicible's Art Rosenbaum](https://amazon-invincible.fandom.com/wiki/Art_Rosenbaum). 
 - 👀 I recently worked on Reverse Engineering and Fuzzing Samsung 5G Baseband Processor Firmware using [Ghidra](https://github.com/NationalSecurityAgency/ghidra) 🐉 and [AFL++](https://github.com/AFLplusplus).
