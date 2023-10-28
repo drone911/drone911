@@ -2,10 +2,10 @@
 This is Jigar Patel (He/Him 👦)
 - 🐊 I am a CS Master's student at the University of Florida with a focus on Software Development and Cybersecurity. Currently holding a 3.94 GPA.
 - 🚅 AWS Solutions Architect Associate with ample exposure to OOP Languages, Bash, Angular, React, and Node.js.
-- I am currently developing two comprehensive web applications to further hone my skills, covering the entire development cycle from initial concept to final deployment.  
+- 🕸️ I am currently developing two comprehensive web applications to further hone my skills, covering the entire development cycle from initial concept to final deployment.  
     (1) [**CatchMeIfYouScan**](https://github.com/drone911/CatchMeIfYouScan) {*React, Nodejs, Jest, Terraform*}: A web tool that let's penetration testers identify what code signatures are being caught by antivirus's.  
     (2) [**TransFormPix**](https://github.com/drone911/TransFormPix) {*React, Terraform*}: A side-project that I wanted to implement that let's you apply Affine Transforms (Rotate, Scale, Shear, and Tranlate) images.  
-- Checkout my [pentesting reports](https://github.com/drone911/arts-pentesing-reports) for a virtual business [Art's Tailor Shoppe 👔](https://amazon-invincible.fandom.com/wiki/Tailor_Shoppe) owned by a [Invicible's Art Rosenbaum](https://amazon-invincible.fandom.com/wiki/Art_Rosenbaum). 
+- 🦠 Checkout my [pentesting reports](https://github.com/drone911/arts-pentesing-reports) for a virtual business [Art's Tailor Shoppe 👔](https://amazon-invincible.fandom.com/wiki/Tailor_Shoppe) owned by a [Invicible's Art Rosenbaum](https://amazon-invincible.fandom.com/wiki/Art_Rosenbaum). 
 - 👀 I recently worked on Reverse Engineering and Fuzzing Samsung 5G Baseband Processor Firmware using [Ghidra](https://github.com/NationalSecurityAgency/ghidra) 🐉 and [AFL++](https://github.com/AFLplusplus).
 - 🔗 Links to check out some of my professional (public) contributions in Python and Javascript as an Incident Response Developer 🛡🏻‍🛡 for [Palo Alto Networks' Cortex XSOAR](https://www.paloaltonetworks.com/cortex):  
     (1) [Google Chronicle SIEM SOAR Content Pack](https://github.com/demisto/content/tree/master/Packs/GoogleChronicleBackstory)  
