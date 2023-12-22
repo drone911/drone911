@@ -1,6 +1,6 @@
 ### Hi there 👋
 This is Jigar Patel (He/Him 👦)
-- 🐊 I am a CS Master's student at the University of Florida with a focus on Software Development and Cybersecurity. Currently holding a 3.94 GPA.
+- 🐊 I am a CS Master's student at the University of Florida with a focus on Software Development and Cybersecurity. Currently holding a 3.81 GPA.
 - 🚅 AWS Solutions Architect Associate with ample exposure to OOP Languages, Bash, React, Angular, and Node.js.
 - 🕸️ I am currently developing two comprehensive web application.  
     (1) [**CatchMeIfYouScan**](https://github.com/drone911/CatchMeIfYouScan) {*React, Nodejs, Jest, Terraform*}: A web tool that let's penetration testers identify what code signatures are being caught by antivirus's.  
