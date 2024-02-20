@@ -1,10 +1,8 @@
 ### Hi there 👋
 This is Jigar Patel (He/Him 👦)
 - 🐊 I am a CS Master's student at the University of Florida with a focus on Software Development and Cybersecurity. Currently holding a 3.81 GPA.
-- 🚅 AWS Solutions Architect Associate with ample exposure to OOP Languages, Bash, React, Angular, and Node.js.
-- 🕸️ I am currently developing two comprehensive web application.  
-    (1) [**CatchMeIfYouScan**](https://github.com/drone911/CatchMeIfYouScan) {*React, Nodejs, Jest, Terraform*}: A web tool that let's penetration testers identify what code signatures are being caught by antivirus's.  
-    (2) [**TransFormPix**](https://github.com/drone911/TransFormPix) {*React, Terraform*}: A side-project that I wanted to implement that let's you apply Affine Transforms (Rotate, Scale, Shear, and Translate) images.
+- 🚅 AWS Solutions Architect Associate with ample exposure to C++, Python, Java, Go, Bash, React, Spring, Flask, and Node.js.
+- 🐐 I recently deployed [**CodeCloak**](https://github.com/drone911/CodeCloak) {*React, Nodejs, Redux, Docker*}: A web tool that let's penetration testers identify what code/binary signatures are being caught by antivirus's.  
 - 🌳 My implementation of Red Black Tree and Priority Heap in C++ for a book reservation system named [Gator Library](https://github.com/drone911/GatorLibrary).
 - 🚀 Competitive solutions in [C++](https://github.com/drone911/Competitive/tree/main/c%2B%2B), [Python](https://github.com/drone911/Competitive/tree/main/python), and [Rust](https://github.com/drone911/Competitive/tree/main/rust) for problems on *www.codechef.com* and *www.leetcode.com*.
 - 🦠 Checkout my [pentesting reports](https://github.com/drone911/arts-pentesing-reports) for a virtual business [Art's Tailor Shoppe 👔](https://amazon-invincible.fandom.com/wiki/Tailor_Shoppe) owned by a [Invicible's Art Rosenbaum](https://amazon-invincible.fandom.com/wiki/Art_Rosenbaum). 
