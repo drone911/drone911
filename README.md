@@ -1,6 +1,6 @@
 ### Hi there 👋
 This is Jigar Patel (He/Him 👦)
-- 🐊 I am a CS Master's student at the University of Florida with a focus on Software Development and Cybersecurity. Currently holding a 3.81 GPA.
+- 🐊 Recent CS Master's graudate from University of Florida with a focus on Software Development and Cybersecurity. Gradated with 3.80 GPA.
 - 🚅 AWS Solutions Architect Associate with ample exposure to C++, Python, Java, C#, Go, Bash, React, Spring, Flask, and Node.js.
 - 🐐 I recently deployed [**CodeCloak**](https://codecloak.onrender.com) {*React, Nodejs, Redux, Docker*}: A web tool that let's penetration testers identify what code/binary signatures are being caught by antivirus's.  
 - 🌳 My implementation of Red Black Tree and Priority Heap in C++ for a book reservation system named [Gator Library](https://github.com/drone911/GatorLibrary).
