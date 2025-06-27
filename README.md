@@ -7,7 +7,6 @@ This is Jigar Mehta (He/Him 👦)
 - 🌳 My implementation of Red Black Tree and Priority Heap in C++ for a book reservation system named [Gator Library](https://github.com/drone911/GatorLibrary).
 - 🚀 Competitive solutions in [C++](https://github.com/drone911/Competitive/tree/main/c%2B%2B), [Python](https://github.com/drone911/Competitive/tree/main/python), [Java](https://github.com/drone911/Competitive/tree/main/java), and [Rust](https://github.com/drone911/Competitive/tree/main/rust) for problems on *www.codechef.com* and *www.leetcode.com*.
 - 🧨 Malware reports that I wrote for my Malware Reverse Engineering course with admittedly quirky titles 🤡:  
-    (1) [Lockbit 2.0](https://docs.google.com/document/d/1Rprbm0Gq91MsU5nEFnPyk6EOK2q8TQn34grzybpEBLA/)  
     (2) [PWS.Win32/Fareit](https://docs.google.com/document/d/1-Z1K4lXYMCinwIpha-waFZR2siL_Z1Y0FFlGHL-q_YQ/)  
     (3) [Adware.Outbrowse/Bundler](https://docs.google.com/document/d/1T39iNPbx2L8enONfN5R-c2xhWa0YB_GsbjzPQNn1Vpo/)  
     (4) [Trojan.Boba/NetwireDRC](https://docs.google.com/document/d/1X7CG9V1N3Q28_ZVDc2HYLLR3k6sXWd-dEs5-vbkXdHA/)  
