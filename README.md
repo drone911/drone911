@@ -2,7 +2,7 @@
 This is Jigar Mehta (He/Him 👦)
 - 🐊 Recent CS Master's graduate from University of Guelph with a focus on Software Development and Cybersecurity (3.8 GPA).
 - 🚅 AWS Solutions Architect Associate with ample exposure to C++, Python, Java, C#, JavaScript, Bash, React, Spring, Flask, and Node.js.
-- 🐱‍👤 Currently working on a [**QuoteOtaku**](https://github.com/drone911/QuoteOtaku) {*React, Spring Boot, ElasticSearch, Kafka*}: A reverse search engine on Anime quotes.
+- 🐱‍👤 Currently working on a [**QuoteOtaku**](https://github.com/drone911/QuoteOtaku) {*React, Spring Boot, ElasticSearch, Kafka*}: A reverse search engine on Anime quotes .
 - 🐐 I recently deployed [**CodeCloak**](https://codecloak.onrender.com) {*React, Nodejs, Redux, Docker*}: A web tool that let's penetration testers identify what code/binary signatures are being caught by antivirus's.  
 - 🌳 My implementation of Red Black Tree and Priority Heap in C++ for a book reservation system named [Gator Library](https://github.com/drone911/GatorLibrary).
 - 🚀 Competitive solutions in [C++](https://github.com/drone911/Competitive/tree/main/c%2B%2B), [Python](https://github.com/drone911/Competitive/tree/main/python), [Java](https://github.com/drone911/Competitive/tree/main/java), and [Rust](https://github.com/drone911/Competitive/tree/main/rust) for problems on *www.codechef.com* and *www.leetcode.com*.
