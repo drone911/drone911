@@ -9,7 +9,6 @@ This is Jigar Mehta (He/Him 👦)
 - 🧨 Malware reports that I wrote for my Malware Reverse Engineering course with admittedly quirky titles 🤡:  
     (2) [PWS.Win32/Fareit](https://docs.google.com/document/d/1-Z1K4lXYMCinwIpha-waFZR2siL_Z1Y0FFlGHL-q_YQ/)   
 - 👀 I recently worked on Reverse Engineering and Fuzzing Samsung 5G Baseband Processor Firmware using [NSA's Ghidra](https://github.com/NationalSecurityAgency/ghidra) 🐉 and [Renouned American Fuzzy Lop++](https://github.com/AFLplusplus). *Links: [[Reversed Code Skeleton](https://github.com/drone911/A536US_BP_skeleton)*
-- 🦠 Checkout my [pentesting reports](https://github.com/drone911/arts-pentesing-reports) for a virtual business [Art's Tailor Shoppe 👔](https://amazon-invincible.fandom.com/wiki/Tailor_Shoppe) owned by a [Invicible's Art Rosenbaum](https://amazon-invincible.fandom.com/wiki/Art_Rosenbaum). 
 - 🧙‍♂️ Ask me about 👏 Problem Solving & Optimization 👏 Web 👏 Cloud 👏 Networks 👏 AI/ML 👏 Pentesting 👏 Malware Analysis and more.
 - 👨🔧 I am resourceful, 🖖🏼 helpful, and excel in root-cause analysis 🤹🏼‍♂️.    
 
