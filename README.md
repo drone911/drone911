@@ -28,7 +28,7 @@ This is Jigar Patel (He/Him 👦)
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drone911&theme=github&referal=github" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=drone911&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=drone911" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drone911&theme=github&exclude=yacc,erlang" />
