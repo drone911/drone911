@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is Jigar Mehta (He/Him 👦)
+This is Jigar Patel (He/Him 👦)
 - 🐊 Recent CS Master's graduate from University of florida with a focus on Software Development and Cybersecurity (3.8 GPA).
 - 🚅 AWS Solutions Architect Associate with ample exposure to C++, Python, Java, C#, JavaScript, Bash, React, Spring, Flask, and Node.js.
 - 🐱‍👤 Currently working on a [**QuoteOtaku**](https://github.com/drone911/QuoteOtaku) {*React, Spring Boot, ElasticSearch, Kafka*}: A reverse search engine on Anime quotes.
