@@ -1,6 +1,6 @@
 ### Hi there 👋
-This is Jigar Patel (He/Him 👦)
-- 🐊 Recent CS Master's graduate from University of florida with a focus on Software Development and Cybersecurity (3.8 GPA).
+This is Jigar Mehta (He/Him 👦)
+- 🐊 Recent CS Master's graduate from University of Guelph with a focus on Software Development and Cybersecurity (3.8 GPA).
 - 🚅 AWS Solutions Architect Associate with ample exposure to C++, Python, Java, C#, JavaScript, Bash, React, Spring, Flask, and Node.js.
 - 🐱‍👤 Currently working on a [**QuoteOtaku**](https://github.com/drone911/QuoteOtaku) {*React, Spring Boot, ElasticSearch, Kafka*}: A reverse search engine on Anime quotes.
 - 🐐 {*React, Nodejs, Redux, Docker*}: A web tool that let's penetration testers identify what code/binary signatures are being caught by antivirus's.  
@@ -25,7 +25,7 @@ This is Jigar Patel (He/Him 👦)
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drone911&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drone911&theme=github&user=drone911" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=drone911" />
